@@ -1,5 +1,5 @@
-#Credit Card Default Prediction
-##Project Overview
+# Credit Card Default Prediction
+## Project Overview
 This project uses machine learning techniques to predict the likelihood of credit card default. The objective is to develop a model that can accurately forecast whether a credit card holder will likely default on their payments based on their historical data.
 ## Table of Contents
 1. [Project Overview](#project-overview)
