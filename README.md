@@ -9,7 +9,6 @@ This project uses machine learning techniques to predict the likelihood of credi
 5. [Results](#results)
 6. [Future Work](#future-work)
 7. [License](#license)
-8. [Acknowledgements](#acknowledgements)
 ## Introduction
 Credit card default prediction is a crucial task in the financial industry for managing risk and making informed decisions. This project involves analyzing historical credit card data to build a predictive model that can help identify high-risk customers.
 
