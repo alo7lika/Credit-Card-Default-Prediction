@@ -44,19 +44,12 @@ This project is licensed under the MIT License. For more details, see the LICENS
 
 ## 🌟 Contributors
 
-Thank you to all our amazing contributors! 🙌 Here are a few standout contributors:
+| Contributor | Contributor | Contributor | Contributor |
+|-------------|-------------|-------------|-------------|
+| ![Harshdev098](https://github.com/Harshdev098.png?size=100) | ![ygowthamr](https://github.com/ygowthamr.png?size=100) | ![Ankitha2130](https://github.com/Ankitha2130.png?size=100) | ![alo7lika](https://github.com/alo7lika.png?size=100) |
+| [Harshdev098](https://github.com/Harshdev098) | [ygowthamr](https://github.com/ygowthamr) | [Ankitha2130](https://github.com/Ankitha2130) | [alo7lika](https://github.com/alo7lika) |
+| ![T-Rahul-prabhu-38](https://github.com/T-Rahul-prabhu-38.png?size=100) | ![trinetra110](https://github.com/trinetra110.png?size=100) | ![RishiVT2004](https://github.com/RishiVT2004.png?size=100) | ![smog-root](https://github.com/smog-root.png?size=100) |
+| [T-Rahul-prabhu-38](https://github.com/T-Rahul-prabhu-38) | [trinetra110](https://github.com/trinetra110) | [RishiVT2004](https://github.com/RishiVT2004) | [smog-root](https://github.com/smog-root) |
 
-| Contributor | GitHub Profile | Avatar |
-|-------------|----------------|--------|
-| **Harshdev098** | [GitHub](https://github.com/Harshdev098) | ![Harshdev098](https://github.com/Harshdev098.png?size=50) |
-| **ygowthamr** | [GitHub](https://github.com/ygowthamr) | ![ygowthamr](https://github.com/ygowthamr.png?size=50) |
-| **Ankitha2130** | [GitHub](https://github.com/Ankitha2130) | ![Ankitha2130](https://github.com/Ankitha2130.png?size=50) |
-| **alo7lika** | [GitHub](https://github.com/alo7lika) | ![alo7lika](https://github.com/alo7lika.png?size=50) |
-| **T-Rahul-prabhu-38** | [GitHub](https://github.com/T-Rahul-prabhu-38) | ![T-Rahul-prabhu-38](https://github.com/T-Rahul-prabhu-38.png?size=50) |
-| **trinetra110** | [GitHub](https://github.com/trinetra110) | ![trinetra110](https://github.com/trinetra110.png?size=50) |
-| **RishiVT2004** | [GitHub](https://github.com/RishiVT2004) | ![RishiVT2004](https://github.com/RishiVT2004.png?size=50) |
-| **smog-root** | [GitHub](https://github.com/smog-root) | ![smog-root](https://github.com/smog-root.png?size=50) |
-
-Want to join this list? Contribute to this project and get featured here!
 
 
