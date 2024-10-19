@@ -42,14 +42,6 @@ Implement methods for model interpretability to understand feature importance an
 ## License
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 
-## 🌟 Contributors
-
-| Contributor | Contributor | Contributor | Contributor |
-|-------------|-------------|-------------|-------------|
-| ![Harshdev098](https://github.com/Harshdev098.png?size=100) | ![ygowthamr](https://github.com/ygowthamr.png?size=100) | ![Ankitha2130](https://github.com/Ankitha2130.png?size=100) | ![alo7lika](https://github.com/alo7lika.png?size=100) |
-| [Harshdev098](https://github.com/Harshdev098) | [ygowthamr](https://github.com/ygowthamr) | [Ankitha2130](https://github.com/Ankitha2130) | [alo7lika](https://github.com/alo7lika) |
-| ![T-Rahul-prabhu-38](https://github.com/T-Rahul-prabhu-38.png?size=100) | ![trinetra110](https://github.com/trinetra110.png?size=100) | ![RishiVT2004](https://github.com/RishiVT2004.png?size=100) | ![smog-root](https://github.com/smog-root.png?size=100) |
-| [T-Rahul-prabhu-38](https://github.com/T-Rahul-prabhu-38) | [trinetra110](https://github.com/trinetra110) | [RishiVT2004](https://github.com/RishiVT2004) | [smog-root](https://github.com/smog-root) |
 
 
 
