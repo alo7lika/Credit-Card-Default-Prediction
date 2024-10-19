@@ -42,82 +42,21 @@ Implement methods for model interpretability to understand feature importance an
 ## License
 This project is licensed under the MIT License. For more details, see the LICENSE file.
 
+## 🌟 Contributors
 
-<div style="overflow: hidden; width: 100%; max-width: 600px; margin: auto;">
-    <div style="display: flex; transition: transform 0.5s ease;">
-        <div style="min-width: 100%;">
-            <h3>🌟 Contributors</h3>
-            <ul>
-                <li>
-                    <a href="https://github.com/Harshdev098">
-                        <img src="https://github.com/Harshdev098.png?size=100" alt="Harshdev098" width="100">
-                        Harshdev098
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/ygowthamr">
-                        <img src="https://github.com/ygowthamr.png?size=100" alt="ygowthamr" width="100">
-                        ygowthamr
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/Ankitha2130">
-                        <img src="https://github.com/Ankitha2130.png?size=100" alt="Ankitha2130" width="100">
-                        Ankitha2130
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/alo7lika">
-                        <img src="https://github.com/alo7lika.png?size=100" alt="alo7lika" width="100">
-                        alo7lika
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/T-Rahul-prabhu-38">
-                        <img src="https://github.com/T-Rahul-prabhu-38.png?size=100" alt="T-Rahul-prabhu-38" width="100">
-                        T-Rahul-prabhu-38
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/trinetra110">
-                        <img src="https://github.com/trinetra110.png?size=100" alt="trinetra110" width="100">
-                        trinetra110
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/RishiVT2004">
-                        <img src="https://github.com/RishiVT2004.png?size=100" alt="RishiVT2004" width="100">
-                        RishiVT2004
-                    </a>
-                </li>
-                <li>
-                    <a href="https://github.com/smog-root">
-                        <img src="https://github.com/smog-root.png?size=100" alt="smog-root" width="100">
-                        smog-root
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
+Thank you to all our amazing contributors! 🙌 Here are a few standout contributors:
 
-<script>
-    let currentIndex = 0;
-    const slides = document.querySelectorAll('div > div > ul > li');
-    
-    function showSlide(index) {
-        const totalSlides = slides.length;
-        if (index >= totalSlides) currentIndex = 0;
-        if (index < 0) currentIndex = totalSlides - 1;
-        const offset = -currentIndex * 100;
-        slides.forEach((slide, idx) => {
-            slide.style.transform = `translateX(${offset}%)`;
-        });
-    }
+| Contributor | GitHub Profile | Avatar |
+|-------------|----------------|--------|
+| **Harshdev098** | [GitHub](https://github.com/Harshdev098) | ![Harshdev098](https://github.com/Harshdev098.png?size=50) |
+| **ygowthamr** | [GitHub](https://github.com/ygowthamr) | ![ygowthamr](https://github.com/ygowthamr.png?size=50) |
+| **Ankitha2130** | [GitHub](https://github.com/Ankitha2130) | ![Ankitha2130](https://github.com/Ankitha2130.png?size=50) |
+| **alo7lika** | [GitHub](https://github.com/alo7lika) | ![alo7lika](https://github.com/alo7lika.png?size=50) |
+| **T-Rahul-prabhu-38** | [GitHub](https://github.com/T-Rahul-prabhu-38) | ![T-Rahul-prabhu-38](https://github.com/T-Rahul-prabhu-38.png?size=50) |
+| **trinetra110** | [GitHub](https://github.com/trinetra110) | ![trinetra110](https://github.com/trinetra110.png?size=50) |
+| **RishiVT2004** | [GitHub](https://github.com/RishiVT2004) | ![RishiVT2004](https://github.com/RishiVT2004.png?size=50) |
+| **smog-root** | [GitHub](https://github.com/smog-root) | ![smog-root](https://github.com/smog-root.png?size=50) |
 
-    setInterval(() => {
-        currentIndex++;
-        showSlide(currentIndex);
-    }, 3000); // Change slide every 3 seconds
-</script>
+Want to join this list? Contribute to this project and get featured here!
+
 
