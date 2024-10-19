@@ -100,6 +100,7 @@ This project is licensed under the MIT License. For more details, see the LICENS
         </div>
     </div>
 </div>
+
 <script>
     let currentIndex = 0;
     const slides = document.querySelectorAll('div > div > ul > li');
